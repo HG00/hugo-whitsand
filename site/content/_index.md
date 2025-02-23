@@ -1,20 +1,20 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
+title: "Whitsand Bay Surf Lifesaving"
+subtitle: Get fit, have fun and save lives!
 image: /img/home-jumbotron.jpg
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+    heading: Why Surf Lifesaving?
+    text: "If you enjoy the sea and fancy helping make our beaches and waterways safer you can fit and have fun at the same time. SLSGB is a search and rescue charity with the purpose of saving lives and and preventing drowning."
 intro:
     heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+    text: "Through challenging and exciting training, we aim to develop excellence in our members in global surf lifesaving techniques including sea rescues, inshore rescue boat training, first aid and beach fitness. There is also a social aspect to the club with the barbecue and beach volleyball making a regular appearance throughout the summer! Located on the beach at Tregonhawke Beach, Whitsand Bay, we provide activities and training to young people aged 7 and upward with a clear progression toward professional beach lifeguard training and qualifications for the seniors aged 16 and upward through our commercial partner Adventure Bay Surf School."
 products:
     - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
+      text: "For children and teenagers we teach surf safety, basic lifesaving skills and surf skills. This can lead on to competitions as well as becoming qualified lifeguards and helping on beach patrols."
     - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+      text: "Adults continue to learn lifesaving and surf skills or can get involved in anything from coaching to volunteering in patrols - there are a lot of ways to join in!"
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+    heading: Joining in
+    text: "Becoming a member is easy - just come along for a free taster session and have a chat. You can also email us at hello@whitsandsurf.com"
 ---
 
