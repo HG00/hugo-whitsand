@@ -14,7 +14,6 @@ products:
     - image: /img/waveicon.png
       text: "Adults continue to learn lifesaving and surf skills or can get involved in anything from coaching to volunteering in patrols - there are a lot of ways to join in!"
 values:
-    - image: img/lifeguards.jpg
     heading: Joining in
     text: "Becoming a member is easy - just come along for a free taster session and have a chat. You can also email us at hello@whitsandsurf.com"
 ---
